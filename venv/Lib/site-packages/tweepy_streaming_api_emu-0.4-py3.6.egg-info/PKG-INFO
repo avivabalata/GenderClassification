@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: tweepy-streaming-api-emu
+Version: 0.4
+Summary: emulate streaming api
+Home-page: https://github.com/kgtkr/tweepy-streaming-api-emu
+Author: kgtkr
+Author-email: kgtkr.jp@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: twitter
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
