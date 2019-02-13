@@ -1,7 +1,8 @@
 
-import sys
-print(sys.executable)
-print(sys.path)
+# import sys
+# print(sys.executable)
+# print(sys.path)
+#
 # # START
 # import tweepy
 # auth = tweepy.OAuthHandler("YzWFDST42FGUpQrqnFd6cT85u", "Ois5i7dau00xpluXjFPuU3Uu20UjDxd9KXbQjd7duXEO370iu8")
@@ -22,6 +23,8 @@ print(sys.path)
 # from nltk.stem import PorterStemmer
 # from nltk.corpus import stopwords
 # stop_words = stopwords.words('english')
+#
+#
 # def cleanAndNormalizeText(data):
 #     # tokenize
 #     tokenize = word_tokenize(data)
@@ -43,6 +46,7 @@ print(sys.path)
 # # get tweets
 # # CAN CHANGE THE QUERY WITH HASHTAG
 # # MAYBE NEED STREAMING PU IN ANOTHER WAY?
+#
 #
 # tweetsData = []
 # for tweet in tweepy.Cursor(api.search, q="place:%s" % place_id).items(15000):
